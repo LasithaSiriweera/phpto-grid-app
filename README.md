@@ -7,7 +7,7 @@ rename the file env_dummy to .env if .env file not exist.
 
 Open command line in project root directory and run following command.
 
-### `install-app`
+### `npm run install-app`
 This will download the all node packages
 
 ### `npm run dev`
