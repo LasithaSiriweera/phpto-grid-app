@@ -1,5 +1,0 @@
-REACT_APP_API_ROOT_URL = http://localhost:4000
-REACT_APP_DEFAULT_USER = 123456789
-REACT_APP_IMG_STORE_URL = https://dev-pb-apps.s3-eu-west-1.amazonaws.com/collection/CHhASmTpKjaHyAsSaauThRqMMjWanYkQ.json
-SERVER_PORT = 4000
-DB_URI = mongodb+srv://photGrdUsr:YOpHldmZzDJ76Ifo@cluster0.oggd2.mongodb.net/photo-grid?retryWrites=true
